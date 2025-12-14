@@ -1,9 +1,14 @@
 // src/services/api.js
 import axios from 'axios';
 
-// ============================================
-// INLINE MOCK DATA (embedded to avoid import path issues)
-// ============================================
+export const MOCK_STATS = {
+  total_flights: 7079081,
+  speed_up_factor: 3.19,
+  data_quality: 98.62,
+  query_response: 3.05,
+  avg_delay_minutes: 7.39,
+  on_time_percentage: 63.65,
+};
 
 const MOCK_PREDEFINED_QUERIES = [
   {
@@ -31,15 +36,6 @@ const MOCK_PREDEFINED_QUERIES = [
     mockDataKey: 'carrier_scorecard'
   }
 ];
-
-export const MOCK_STATS = {
-  total_flights: 6981227,
-  total_airports: 387,
-  avg_delay_minutes: 7.10,
-  on_time_percentage: 63.65,
-  total_delay_cost: 7785000000,
-  data_quality: 98.6
-};
 
 const MOCK_ROUTE_PERFORMANCE = [
   { origin: "TYS", destination: "DTW", carrier_code: "9E", carrier_name: "Endeavor Air", total_flights: 560, on_time_flights: 503, on_time_pct: 89.82, avg_delay_minutes: -11.28 },
