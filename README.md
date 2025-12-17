@@ -18,6 +18,10 @@ This project transforms 7 million flight records from a normalized 3NF schema in
 - **98.62%** data quality maintained through automated validation
 - **Sub-4-second** response times for complex analytical queries
 
+### 🌐 Quick Links
+- **[Live Demo](https://flight-datawarehouse.vercel.app/)** - Interactive dashboard
+- **[GitHub Repository](https://github.com/jill-2105/flight-datawarehouse)** - Source code
+- **[Dataset Source](https://www.kaggle.com/datasets/hrishitpatil/flight-data-2024)** - Kaggle
 ---
 
 ## 🏗️ System Architecture
@@ -165,12 +169,6 @@ npm start
 # Dashboard available at http://localhost:3000
 ```
 ---
-
-### 🌐 Quick Links
-- **[Live Demo](https://flight-datawarehouse.vercel.app/)** - Interactive dashboard
-- **[GitHub Repository](https://github.com/jill-2105/flight-datawarehouse)** - Source code
-- **[Dataset Source](https://www.kaggle.com/datasets/hrishitpatil/flight-data-2024)** - Kaggle
-
 
 **Details:**
 - **Time Period**: January 1 - December 31, 2024 (366 days)
