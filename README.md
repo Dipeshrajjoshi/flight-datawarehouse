@@ -316,7 +316,7 @@ Computer Science, University of Windsor
 🔗 [GitHub](https://github.com/jill-2105)
 
 **Team Members:**
-- Dipesh Raj Joshi (joshid@uwindsor.ca)
+- Dipesh Raj Joshi (joshi6k@uwindsor.ca)
 Contribution: **Role:** Frontend Developer & Data Analyst
 
 ### Frontend Development
