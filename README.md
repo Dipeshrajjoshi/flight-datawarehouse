@@ -317,6 +317,28 @@ Computer Science, University of Windsor
 
 **Team Members:**
 - Dipesh Raj Joshi (joshid@uwindsor.ca)
+Contribution: **Role:** Frontend Developer & Data Analyst
+
+### Frontend Development
+- Developed and enhanced the **React-based analytics dashboard**
+- Integrated frontend with backend APIs for dynamic query execution
+- Built reusable UI components for:
+  - Predefined analytical queries
+  - Results tables with sorting and filtering
+  - KPI/statistics cards
+  - CSV export functionality
+- Improved usability with responsive layouts and clean visual design
+
+### Data Analytics
+- Assisted in designing and validating **analytical SQL queries**
+- Contributed to performance benchmarking between **3NF and Star Schema**
+- Supported analytics for:
+  - Airline carrier performance
+  - Delay categorization and trends
+  - Airport-level rankings and aggregations
+- Validated analytical outputs against expected business logic
+
+
 - Kamraan Ahmed (ahmed11@uwindsor.ca)
 - Monisha Thandavamoorthy (thandav1@uwindsor.ca)
 
